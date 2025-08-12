@@ -1,7 +1,7 @@
 {
   "name": "قائمة المشتريات",
   "short_name": "مشترياتي",
-  "start_url": "planning.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0b84ff",
